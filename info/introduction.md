@@ -6,7 +6,7 @@ As developer I find myself constantly examining (text) files.
   I got very tired of having to create files / install tools
   just in order to perform a simple e fast operation.
   
-  This is why I made this online tools/webapp
+  This is why I made this online tools/webapp.
   
   
 If you do find this project useful,
